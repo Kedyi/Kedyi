@@ -9,7 +9,7 @@
 -   I enjoy meeting with like-minded people and working with them in a team environment. 
 I am open to learning new things and getting involved with new projects that can help me learn.
 
-<img align="right" alt="Coding" width="400" height="300" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="Coding" width="380" height="280" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@ I am open to learning new things and getting involved with new projects that can
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kedyi&show_icons=true&locale=en&layout=compact" alt="kedyi" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kedyi&show_icons=true&locale=en" alt="kedyi" /></p>
+<p>&nbsp;<img align="auto" width="400" src="https://github-readme-stats.vercel.app/api?username=kedyi&show_icons=true&locale=en" alt="kedyi" /></p>
 <br>
 <p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=kedyi&" alt="kedyi" /></p>
 
