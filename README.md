@@ -27,8 +27,8 @@ I am open to learning new things and getting involved with new projects that can
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kedyi&show_icons=true&locale=en&layout=compact" alt="kedyi" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kedyi&show_icons=true&locale=en" alt="kedyi" /></p>
-
+<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=kedyi&show_icons=true&locale=en" alt="kedyi" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kedyi&" alt="kedyi" /></p>
 
 
