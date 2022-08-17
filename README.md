@@ -25,9 +25,9 @@ I am open to learning new things and getting involved with new projects that can
 - 📄 Resume: [https://drive.google.com/file/d/1dTbag3VmTAphPCHvnRfOuJZAUJ7OJeIm/view?usp=sharing](https://drive.google.com/file/d/1dTbag3VmTAphPCHvnRfOuJZAUJ7OJeIm/view?usp=sharing)
 
 
-<p>&nbsp;<img align="auto" width="400" src="https://github-readme-stats.vercel.app/api?username=kedyi&show_icons=true&locale=en" alt="kedyi" class="responsive" style="padding-bottom:56%;position:relative;"/></p>
+<p>&nbsp;<img align="auto" width="400" src="https://github-readme-stats.vercel.app/api?username=kedyi&show_icons=true&locale=en&theme=highcontrast" alt="kedyi" class="responsive" style="padding-bottom:56%;position:relative;"/></p>
 
-<p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=kedyi&" alt="kedyi" class="responsive" style="padding-bottom:56%;position:relative;" /></p>
+<p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com?user=kedyi&theme=highcontrast" alt="kedyi" class="responsive" style="padding-bottom:56%;position:relative;" /></p>
 
 
 <!--
