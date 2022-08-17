@@ -9,7 +9,7 @@
 -   I enjoy meeting with like-minded people and working with them in a team environment. 
 I am open to learning new things and getting involved with new projects that can help me learn.
 
-<img align="right" alt="Coding" width="380" height="280" class="responsive" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +25,9 @@ I am open to learning new things and getting involved with new projects that can
 - 📄 Resume: [https://drive.google.com/file/d/1dTbag3VmTAphPCHvnRfOuJZAUJ7OJeIm/view?usp=sharing](https://drive.google.com/file/d/1dTbag3VmTAphPCHvnRfOuJZAUJ7OJeIm/view?usp=sharing)
 
 
-<p>&nbsp;<img align="auto" width="400" src="https://github-readme-stats.vercel.app/api?username=kedyi&show_icons=true&locale=en" alt="kedyi" class="responsive" style="margin:1px 1px 1px 1px;"/></p>
+<p>&nbsp;<img align="auto" width="400" src="https://github-readme-stats.vercel.app/api?username=kedyi&show_icons=true&locale=en" alt="kedyi" class="responsive" style="padding-bottom:56%;position:relative;"/></p>
 
-<p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=kedyi&" alt="kedyi" class="responsive" style="margin: 1px 1px 1px 1px;" /></p>
+<p><img align="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=kedyi&" alt="kedyi" class="responsive" style="padding-bottom:56%;position:relative;" /></p>
 
 
 <!--
