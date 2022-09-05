@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Komal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedyi&label=Profile%20views&color=0e75b6&style=flat" alt="kedyi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/komal94604758" target="blank"><img src="https://img.shields.io/twitter/follow/komal94604758?logo=twitter&style=for-the-badge" alt="komal94604758" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/komal94604758" target="blank"><img src="https://img.shields.io/twitter/follow/komal94604758?logo=twitter&style=for-the-badge" alt="komal94604758" /></a> </p> -->
 
 👨‍💻I am a Computer Science undergraduate who is passionate about computer programming and new technologies. 
 -   I enjoy solving technical problems, researching, and learning new technologies.I'm really interested in web development and Computer Vision.
