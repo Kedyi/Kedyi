@@ -4,10 +4,8 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/komal94604758" target="blank"><img src="https://img.shields.io/twitter/follow/komal94604758?logo=twitter&style=for-the-badge" alt="komal94604758" /></a> </p> -->
 
-👨‍💻I am a Computer Science undergraduate who is passionate about computer programming and new technologies. 
--   I enjoy solving technical problems, researching, and learning new technologies.I'm really interested in web development and Computer Vision.
--   I enjoy meeting with like-minded people and working with them in a team environment. 
-I am open to learning new things and getting involved with new projects that can help me learn.
+👨‍💻Computer Science undergrad with a knack for coding, problem-solving, and tech exploration. Constant learner, loves teamwork, and always up for new challenges and projects. 
+Let's code and conquer together!
 
 
 
